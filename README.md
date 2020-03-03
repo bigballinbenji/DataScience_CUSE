@@ -15,6 +15,14 @@ Uncover the factors that lead to employee attrition and explore important questi
 
 Malware is a pressing issue in cybersecurity, Microsoft aims to assist in combating threats to their machines. This data was collected from a wide variety of machines, not just Microsoft customers. Overall, the purpose for evaluating this data is to predict malware threats to a machine in order to mitigate threats to machines that are at risk.
 
+
+[Serendipity Recovery](https://sway.office.com/vhqAsY7cOAALMYUA?ref=Link)
+
+Serendipity Recovery is a small organization that does not use the proper technology or systems to record and store their client’s personal information and sensitive information like marital status, financial information, education history, work history, etc. They currently rely solely on paper documentation for processing intake forms. Therefore, sensitive and mission critical information is only accessible to one person at a time, there are no backup files, information can be easily lost, stolen or destroyed, and keeping track of their clients as the business continues to grow will eventually become a tedious process.
+
+The current solution to the problem is to build a database that stores clients’ information that is collected about a patient and the referral list. Creating the database will ensure that a backup can be stored on the cloud and on the hard drive of the main computer that is used to setup the database.  This ensures that the client will have the ability to protect the patient’s data more so than storing in a cabinet where a key can be more easily stolen or misplaced.
+
+
 ## Skillset
 
 Coding: Excel (Lookup, Forecasting, PivotTables, Solver, Power Query, Power Pivot), Google Analytics and AdWords, Python, R 
