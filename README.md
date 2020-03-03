@@ -4,13 +4,16 @@ The master’s in Applied Data Science prepares students with the practical anal
 
 
 ## Notable Projects
-IBM Attrition Analysis 
 
-https://sway.office.com/ZOmkg8TfUuv92ALA?ref=Link
+[IBM Attrition Analysis](https://sway.office.com/ZOmkg8TfUuv92ALA?ref=Link)
+ 
+Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
-Microsoft Malware Predictions
 
-https://sway.office.com/en9CHMIoWI47by7K?ref=Link
+
+[Microsoft Malware Predictions](https://sway.office.com/en9CHMIoWI47by7K?ref=Link)
+
+Malware is a pressing issue in cybersecurity, Microsoft aims to assist in combating threats to their machines. This data was collected from a wide variety of machines, not just Microsoft customers. Overall, the purpose for evaluating this data is to predict malware threats to a machine in order to mitigate threats to machines that are at risk.
 
 ## Skillset
 
