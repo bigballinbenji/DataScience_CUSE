@@ -22,6 +22,9 @@ Serendipity Recovery is a small organization that does not use the proper techno
 
 The current solution to the problem is to build a database that stores clients’ information that is collected about a patient and the referral list. Creating the database will ensure that a backup can be stored on the cloud and on the hard drive of the main computer that is used to setup the database.  This ensures that the client will have the ability to protect the patient’s data more so than storing in a cabinet where a key can be more easily stolen or misplaced.
 
+[Airbnb Exploratory Analysis in New York City](https://sway.office.com/5kzWfccU8nVgfK0w?ref=Link)
+
+The hotel industry long stood as a business model that was unchallenged in many areas across the world. With the evolution of technology came the ability to connect people and resources. Out of this technology change came a platform called Airbnb. Airbnb uses a business model that allows customers to rent space from house/apartment owners. The project here is a brief exploration of Airbnb locations in New York City and aims to discover answers to why some places are more expensive than others.
 
 ## Skillset
 
