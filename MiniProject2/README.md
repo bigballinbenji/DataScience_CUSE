@@ -9,7 +9,7 @@ Create a sentiment analysis of product review.
 Analyze the data and create questions that help you to explore the data even more.
 
 ## Data Exploration and Cleaning Steps
-In my initial exploration of the data, I uncovered that the files the missing values was concentrated for in the reviews helpfulVotes column. For my analyis, this column is not useful, so I did not have to do any cleaning there. Also, I had data information in my data, so I changed to format to datetime, and used the cleaned-up information to make some plots. 
+In my initial exploration of the data, I uncovered that the files the missing values was concentrated for in the reviews helpfulVotes column. For my analyis, this column is not useful, so I did not have to do any cleaning there. Also, I had date information in my data, so I changed to format to datetime, and used the cleaned-up information to make some plots. 
 
 To last clean up involved making sure I get my data into a format where I can I begin sentiment analysis. Using two packages nltk and scipy I was able to process reviews from Amazon products and learn what features are good and bad for a cell phone. The steps that I conducted included removing stopwords, making all the words lower case, and tokenizing the data points. 
 
