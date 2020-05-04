@@ -31,7 +31,8 @@ In this analysis I combined two data frames based on the unique product serial n
 
 q1.csv goal was to get aspect-based sentiments for each product review.
 
-totalMonthsReview.pdf displays how many reviews are in the dataset by month
-totalYearReview.pdf displays how many reviews are in the dataset by year
+totalMonthsReview.pdf displays how many reviews are in the dataset by month.
 
-q3.csv goal was to get the median prices of houses across each year
+totalYearReview.pdf displays how many reviews are in the dataset by year.
+
+q3.csv goal was to get the median prices of houses across each year.
