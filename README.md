@@ -1,4 +1,4 @@
-# Applied Data Science, Masters 
+# Applied Data Science, Masters, GPA: 3.63
 The master’s in Applied Data Science prepares students with the practical analytical and technical skills to apply analytical concepts to gain insight from small and large datasets. The curriculum offers an innovative blend of information science and management principles. While the overall program focuses on applications of data science to enterprise operations and processes, individual courses tackle data handling issues such as data capture, management, analysis, and communication for decision-making.
 
 
@@ -28,9 +28,12 @@ The hotel industry long stood as a business model that was unchallenged in many 
 
 ## Skillset
 
-Coding: Excel (Lookup, Forecasting, PivotTables, Solver, Power Query, Power Pivot), Google Analytics and AdWords, Python, R 
+Coding: Python, Apache Spark, Excel (Lookup, Forecasting, PivotTables, Solver, Power Query, Power Pivot), Google Analytics and AdWords 
 
-Data Visualization: Tableau, Power BI
+Data Visualization: Tableau
 
 Database: SQL, MySQL, SQL Server, Access
+
+Packages: Pandas, Numpy, Skikit-Learn, Matplotlib
+
 
