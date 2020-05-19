@@ -34,6 +34,6 @@ Data Visualization: Tableau
 
 Database: SQL, MySQL, SQL Server, Access
 
-Packages: Pandas, Numpy, Skikit-Learn, Matplotlib
+Packages: Pandas, Numpy, Scikit-Learn, Matplotlib
 
 
